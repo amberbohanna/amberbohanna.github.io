@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+<title><![CDATA[bohanna.xyz]]></title>
+<description><![CDATA[bohanna.xyz]]></description>
+<link>https://bohanna.xyz/</link>
+<lastBuildDate>Sat, 11 Apr 2020 19:04:32 +1200</lastBuildDate>
+<item>
+  <title><![CDATA[Hello World]]></title>
+  <description><![CDATA[
+<p>
+Testing
+</p>
+<div class="taglist"><a href="https://bohanna.xyz/tags.html">Tags</a>: <a href="https://bohanna.xyz/tag-first.html">first</a> </div>]]></description>
+  <category><![CDATA[first]]></category>
+  <link>https://bohanna.xyz/2020-04-11-hello-world.html</link>
+  <pubDate>Sat, 11 Apr 2020 18:59:00 +1200</pubDate>
+</item>
+</channel>
+</rss>
